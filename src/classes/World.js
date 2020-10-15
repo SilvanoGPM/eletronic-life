@@ -18,7 +18,7 @@ figlet.text('Eletronic Life', {
     textHeader = paintText(data, colors.green) + "\n";
 })
 
-const World = function (map, legend, speed = 1000) {
+const World = function (map, legend, speed = 100) {
     const grid = new Grid(map[0].length, map.length);
     this.grid = grid;
     this.legend = legend;
