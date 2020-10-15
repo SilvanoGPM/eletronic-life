@@ -11,6 +11,7 @@ function animation(world) {
         shell.echo('-ne', shell.cat(animationPath));
     }
 
+    shell.exec('resize -s 27 110');
     tick();
     intervalId = setInterval(tick, world.speed);
 }
