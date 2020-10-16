@@ -13,6 +13,7 @@ Eletronic Life é um ecossistema virtual, desenvolvido principalmente em Javascr
 ## Executando
 
 - Faça download o projeto.
+- Instale os módulos do npm, utilizando o `npm install`.
 - Inicie o script com o seguinte comando:
 
 ```
@@ -25,7 +26,7 @@ ou
 node src/eletronic-life.js [velocidade-do-tick ] // padrão é 1000.
 ```
 
-<img src="https://user-images.githubusercontent.com/59753526/96196698-6bff4f00-0f26-11eb-9fe8-f01f8958011f.gif" style="border: 1px solid red" />
+<img src="https://user-images.githubusercontent.com/59753526/96196698-6bff4f00-0f26-11eb-9fe8-f01f8958011f.gif" />
 
 # Módulos npm usados
 
