@@ -2,7 +2,7 @@ const View = require('./View');
 const World = require('./World');
 const { elementFromChar } = require('../utils/elementUtil');
 
-function LifelikeWorld(map, legend, speed = 1000) {
+function LifelikeWorld(map, legend, speed = 100) {
     World.call(this, map, legend, speed);
 }
 

@@ -1,0 +1,25 @@
+{
+  "name": "eletronic-life",
+  "version": "1.0.0",
+  "description": "Eletronic Life é um ecossistema virtual, desenvolvido principalmente em Javascript. Códigos desenvolvidos com auxílio do repositório [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript).",
+  "main": "index.js",
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyG0D/eletronic-life.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkyG0D/eletronic-life/issues"
+  },
+  "homepage": "https://github.com/SkyG0D/eletronic-life#readme"
+}
