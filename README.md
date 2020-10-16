@@ -1,6 +1,6 @@
 # *Eletronic Life*
 
-Eletronic Life é uma simulação de um ecossistema virtual, desenvolvido principalmente em Javascript. Códigos desenvolvidos com auxílio do repositório [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript).
+Eletronic Life é um ecossistema virtual, desenvolvido principalmente em Javascript. Códigos desenvolvidos com auxílio do repositório [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript).
 
 # Como executar
 
