@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node src/eletronicLife.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
