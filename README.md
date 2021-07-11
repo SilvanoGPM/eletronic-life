@@ -26,7 +26,7 @@ ou
 npm start [velocidade-do-tick ] // caso não passe nada será 100.
 ```
 
-<img src="https://user-images.githubusercontent.com/59753526/96196698-6bff4f00-0f26-11eb-9fe8-f01f8958011f.gif" />
+![Gif](https://user-images.githubusercontent.com/59753526/96196698-6bff4f00-0f26-11eb-9fe8-f01f8958011f.gif)
 
 # Módulos npm usados
 
