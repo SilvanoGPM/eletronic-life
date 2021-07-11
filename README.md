@@ -17,13 +17,13 @@ Eletronic Life é um ecossistema virtual, desenvolvido principalmente em Javascr
 - Inicie o script com o seguinte comando:
 
 ```
-node src/eletronic-life.js
+yarn start [velocidade-do-tick ] // caso não passe nada será 100.
 ```
 
-ou 
+ou
 
 ```
-node src/eletronic-life.js [velocidade-do-tick ] // padrão é 1000.
+npm start [velocidade-do-tick ] // caso não passe nada será 100.
 ```
 
 <img src="https://user-images.githubusercontent.com/59753526/96196698-6bff4f00-0f26-11eb-9fe8-f01f8958011f.gif" />
